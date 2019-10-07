@@ -1,3 +1,6 @@
+## NOTE
+Forked in order to support RN 0.60. Fix ViewPagerAndroid extracted from react-native core.
+
 # React-Native-ViewPager
 [![npm](https://img.shields.io/npm/v/rn-viewpager.svg?style=plastic)](https://npmjs.org/package/rn-viewpager) [![npm](https://img.shields.io/npm/dm/rn-viewpager.svg?style=plastic)](https://npmjs.org/package/rn-viewpager) [![npm](https://img.shields.io/npm/dt/rn-viewpager.svg?style=plastic)](https://npmjs.org/package/rn-viewpager)
 
